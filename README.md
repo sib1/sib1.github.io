@@ -14,7 +14,7 @@ Outside of research I enjoy road cycling, running, skiing and walking the dog wi
 *Eduardo Perez-Pellitero, Sibi Catley-Chandar, Ales Leonardis, Radu Timofte, et al.* (link to follow)
 
 ## Contact Me
-The best way to reach me is via my university email address: s.catley-chandar@qmul.ac.uk
+Please feel free to reach out! The best way to contact me is via my university email address: <s.catley-chandar@qmul.ac.uk>
 
 ## Timeline
 
