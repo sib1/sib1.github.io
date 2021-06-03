@@ -4,7 +4,7 @@ My name is Sibi Catley-Chandar and I'm currently a computer vision research engi
 
 My research interests are in computational photography, with a focus on high dynamic range (HDR) imaging. I'm especially interested in ways to use statistical modelling of the image formation process to improve deep learning methods. 
 
-I'm supervised by [Dr. Eduardo Perez Pellitero](https://perezpellitero.github.io/), [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Dr. Martin Benning](https://www.qmul.ac.uk/maths/profiles/benningmartin.html)
+I'm supervised by [Dr. Eduardo Perez Pellitero](https://perezpellitero.github.io/), [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Dr. Martin Benning](https://www.qmul.ac.uk/maths/profiles/benningmartin.html).
 
 Outside of research I enjoy road cycling, running, skiing and walking the dog with my wife.
 
