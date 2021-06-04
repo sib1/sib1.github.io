@@ -10,9 +10,9 @@ Outside of research I enjoy road cycling, running, skiing and walking the dog wi
 
 ## Publications
 
-**NTIRE 2021 challenge on high dynamic range imaging: Dataset, methods and results** 
-*Eduardo Perez-Pellitero, Sibi Catley-Chandar, Ales Leonardis, Radu Timofte, et al.* (link to follow)
 
+**[NTIRE 2021 challenge on high dynamic range imaging: Dataset, methods and results :page_facing_up:](https://arxiv.org/abs/2106.01439)** 
+*Eduardo Perez-Pellitero, Sibi Catley-Chandar, Ales Leonardis, Radu Timofte, et al.* 
 ## Contact Me
 Please feel free to reach out! The best way to contact me is via my university email address: <s.catley-chandar@qmul.ac.uk>
 
