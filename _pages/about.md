@@ -39,27 +39,27 @@ Please feel free to reach out! The best way to contact me is via my university e
 🔗 **[VSCHH 2023: A Benchmark for the View Synthesis Challenge of Human Heads](https://openaccess.thecvf.com/content/ICCV2023W/RHWC/html/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.html)**
 
 <img width="300" alt="architecture figure" src="/assets/img/vschh.png">   
-Youngkyoon Jang, Jiali Zheng, Jifei Song, Helisa Dhamo, Eduardo Perez-Pellitero, Thomas Tanay, Matteo Maggioni, Richard Shaw, **Sibi Catley-Chandar**, Yiren Zhou, Jiankang Deng
-**ICCVW 2023**
+
+Youngkyoon Jang, Jiali Zheng, Jifei Song, Helisa Dhamo, Eduardo Perez-Pellitero, Thomas Tanay, Matteo Maggioni, Richard Shaw, **Sibi Catley-Chandar**, Yiren Zhou, Jiankang Deng, **ICCVW 2023**
 
 🔗 **[HDR Reconstruction from Bracketed Exposures and Events](https://bmvc2022.mpi-inf.mpg.de/0601.pdf)**  
 [Project Page](https://perezpellitero.github.io/projects/events_hdr/)
 
 <img width="300" alt="architecture figure" src="/assets/img/events.png">   
-Richard Shaw, **Sibi Catley-Chandar**, Ales Leonardis, Eduardo Perez-Pellitero
-**BMVC 2022**
+
+Richard Shaw, **Sibi Catley-Chandar**, Ales Leonardis, Eduardo Perez-Pellitero, **BMVC 2022**
 
 🔗 **[FlexHDR: Modelling Alignment and Exposure Uncertainties for Flexible HDR Imaging](https://ieeexplore.ieee.org/document/9881970)**  
 [Project Page](https://perezpellitero.github.io/projects/flexhdr/)
 
 <img width="300" alt="architecture figure" src="/assets/img/flexhdr.png"> 
-**Sibi Catley-Chandar**, Thomas Tanay, Lucas Vandroux, Aleš Leonardis, Gregory Slabaugh, Eduardo Pérez-Pellitero
-**Transactions on Image Processing, September 2022**
+
+**Sibi Catley-Chandar**, Thomas Tanay, Lucas Vandroux, Aleš Leonardis, Gregory Slabaugh, Eduardo Pérez-Pellitero, **TIP, 2022**
 
 🔗 **[NTIRE 2022 Challenge on High Dynamic Range Imaging: Methods and Results](https://arxiv.org/abs/2205.12633)** 
 
 <img width="300" alt="architecture figure" src="/assets/img/ntire22.png">   
-Eduardo Pérez-Pellitero, **Sibi Catley-Chandar**, Richard Shaw, Aleš Leonardis, Radu Timofte
-**CVPRW, 2022** 
+
+Eduardo Pérez-Pellitero, **Sibi Catley-Chandar**, Richard Shaw, Aleš Leonardis, Radu Timofte, **CVPRW, 2022** 
 
 
