@@ -20,12 +20,6 @@ Outside of research I enjoy road cycling, running, skiing and walking our dogs.
 ## Contact Me
 Please feel free to reach out! The best way to contact me is via my university email address: <s.catley-chandar@qmul.ac.uk>
 
-## Videos
-
-<div class="row mt-3"> 
-        {% include video.liquid path="https://www.youtube.com/watch?v=R3CHg46SIfo" class="img-fluid rounded z-depth-1" %}
-</div>
-
 
 ## Recent Updates
 
