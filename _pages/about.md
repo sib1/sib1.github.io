@@ -20,6 +20,12 @@ Outside of research I enjoy road cycling, running, skiing and walking our dogs.
 ## Contact Me
 Please feel free to reach out! The best way to contact me is via my university email address: <s.catley-chandar@qmul.ac.uk>
 
+## Videos
+
+<div class="row mt-3"> 
+        {% include video.liquid path="https://www.youtube.com/watch?v=R3CHg46SIfo" class="img-fluid rounded z-depth-1" %}
+</div>
+
 
 ## Recent Updates
 
@@ -32,6 +38,8 @@ Please feel free to reach out! The best way to contact me is via my university e
 **Aug 22** - [FlexHDR](https://ieeexplore.ieee.org/document/9881970) is accepted to Transactions on Image Processing! 🎉 [Project Page Here](https://perezpellitero.github.io/projects/flexhdr/)
 
 **Mar 22** - We co-organized the CVPR workshop on HDR imaging again with [ETH Zurich](https://vision.ee.ethz.ch/). Find the challenge here: [NTIRE HDR Challenge 2022](https://data.vision.ee.ethz.ch/cvl/ntire22/) 🎯
+
+
 
 
 ## Recent Publications
