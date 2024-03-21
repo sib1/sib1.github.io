@@ -23,7 +23,7 @@ Please feel free to reach out! The best way to contact me is via my university e
 
 ## Recent Updates
 
-**Mar 24** - [Project Page](https:/sib1.github.io/projects/roguenerf/) is now live for RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF
+**Mar 24** - [Project Page](https://sib1.github.io/projects/roguenerf/) is now live for RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF
 
 **Oct 23** - We co-organized the ICCV workshop on View Synthesis for Human Heads together with Imperial College London. Find the challenge here: [To NeRF or not to NeRF](https://sites.google.com/view/vschh/home) 🎯
 
