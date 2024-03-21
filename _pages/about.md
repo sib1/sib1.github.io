@@ -11,17 +11,19 @@ social: true  # includes social icons at the bottom of the page
 
 My name is Sibi Catley-Chandar and I'm currently a computer vision researcher at [Huawei Noah's Ark Lab London](https://noahlab.com.hk/#/home) and also a doctoral student at Queen Mary, University of London. 
 
-My research interests are in computational photography (high dynamic range imaging) and 3D reconstruction of scenes with Neural Radiance Fields (NeRF). I'm especially interested in ways to use statistical modelling of the image formation process to improve current deep learning methods and challenge existing assumptions. 
+My research interests are in computational photography (high dynamic range imaging) and 3D reconstruction of scenes with Neural Radiance Fields (NeRF). I'm especially interested in ways to use statistical modelling of the image formation process to improve current deep learning methods. 
 
 I'm lucky to be supervised by [Dr. Eduardo Perez Pellitero](https://perezpellitero.github.io/) at Huawei and [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Dr. Martin Benning](https://www.qmul.ac.uk/maths/profiles/benningmartin.html) at Queen Mary.
 
-Outside of research I enjoy road cycling, running, skiing and walking our dogs.
+Outside of research I enjoy running, skiing and walking the dogs with my wife.
 
 ## Contact Me
 Please feel free to reach out! The best way to contact me is via my university email address: <s.catley-chandar@qmul.ac.uk>
 
 
 ## Recent Updates
+
+**Mar 24** - [Project Page](https:/sib1.github.io/projects/roguenerf/) is now live for RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF
 
 **Oct 23** - We co-organized the ICCV workshop on View Synthesis for Human Heads together with Imperial College London. Find the challenge here: [To NeRF or not to NeRF](https://sites.google.com/view/vschh/home) 🎯
 
