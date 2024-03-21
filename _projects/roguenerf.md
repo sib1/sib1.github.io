@@ -65,6 +65,17 @@ If videos do not load, please try using Mozilla Firefox or download the video fr
     </div>
 </div>
 
+<h5>NeRF - Trex </h5>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/compare_ours_nerf_trex_v2.mp4" class="img-fluid rounded z-depth-1" preload=auto muted=True controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/compare_ours_nerflix_trex_v2.mp4" class="img-fluid rounded z-depth-1" preload=auto muted=True controls=true autoplay=true %}
+    </div>
+</div>
+
 <h5>View Consistency</h5>
 
 
