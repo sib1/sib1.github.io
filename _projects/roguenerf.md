@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RogueNeRF - A Robust Geometry-Consistent Universal Enhancer for NeRF 
+title: RoGUENeRF - A Robust Geometry-Consistent Universal Enhancer for NeRF 
 description:
 img: assets/img/roguenerf.png
 importance: 2
@@ -168,12 +168,11 @@ If videos do not load, please try using Mozilla Firefox or download the video fr
 </div>
 
 ```
-@misc{catleychandar2024roguenerf,
+@article{catleychandar2024roguenerf,
       title={RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF}, 
       author={Sibi Catley-Chandar and Richard Shaw and Gregory Slabaugh and Eduardo Perez-Pellitero},
       year={2024},
       eprint={2403.11909},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      journal={arXiv.org}
 }
 ```
