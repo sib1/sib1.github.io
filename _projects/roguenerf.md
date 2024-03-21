@@ -70,9 +70,6 @@ If videos do not load, please try using Mozilla Firefox or download the video fr
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/compare_ours_mipnerf360_garden_view_consistency_v2.mp4" class="img-fluid rounded z-depth-1" preload=auto muted=True controls=true autoplay=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/compare_ours_nerflix_garden_view_consistency_v2.mp4" class="img-fluid rounded z-depth-1" preload=auto muted=True controls=true autoplay=true %}
     </div>
 </div>
