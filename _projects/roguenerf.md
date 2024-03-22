@@ -12,7 +12,7 @@ images:
 
 <center> 
 
-[Sibi Catley-Chandar](https://sib1.github.io/)   [Richard Shaw](https://scholar.google.com/citations?user=9qqtzK4AAAAJ&hl=en)   [Gregory Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/)   [Eduardo Perez-Pellitero](https://perezpellitero.github.io/projects/flexhdr/)
+[Sibi Catley-Chandar](https://sib1.github.io/)   [Richard Shaw](https://scholar.google.com/citations?user=9qqtzK4AAAAJ&hl=en)   [Gregory Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/)   [Eduardo Perez-Pellitero](https://perezpellitero.github.io/)
 
 </center>
 
