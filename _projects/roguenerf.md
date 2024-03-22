@@ -12,7 +12,11 @@ images:
 
 
 
+<center> 
 
+###### Sibi Catley-Chandar Richard Shaw Gregory Slabaugh Eduardo Perez-Pellitero
+
+</center>
 
 <center> 
 
@@ -28,13 +32,6 @@ images:
 
 <br>
 
-<center> 
-
-[Sibi Catley-Chandar](https://sib1.github.io/)   [Richard Shaw](https://scholar.google.com/citations?user=9qqtzK4AAAAJ&hl=en)   [Gregory Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/)   [Eduardo Perez-Pellitero](https://perezpellitero.github.io/)
-
-</center>
-
-<br>
 
 <center> <h2> Method </h2> </center>
 
