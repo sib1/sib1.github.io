@@ -14,7 +14,7 @@ images:
 
 <center> 
 
-<center> <h5> Sibi Catley-Chandar &nbsp; Richard Shaw &nbsp; Gregory Slabaugh &nbsp; Eduardo Perez-Pellitero </h5> </center>
+<center> <h5> Sibi Catley-Chandar &nbsp; Richard Shaw &nbsp; Gregory Slabaugh &nbsp; Eduardo Pérez-Pellitero </h5> </center>
 
 </center>
 
