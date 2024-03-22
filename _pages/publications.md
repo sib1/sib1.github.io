@@ -8,6 +8,13 @@ nav_order: 5
 ---
 
 
+🔗 **[RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF](https://arxiv.org/abs/2403.11909)**
+[Project Page](https://sib1.github.io/projects/roguenerf/)
+
+<img width="300" alt="architecture figure" src="/assets/img/roguenerf.png">   
+**Sibi Catley-Chandar**, Richard Shaw, Gregory Slabaugh, Eduardo Perez-Pellitero, arXiv
+
+
 🔗 **[VSCHH 2023: A Benchmark for the View Synthesis Challenge of Human Heads](https://openaccess.thecvf.com/content/ICCV2023W/RHWC/html/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.html)**
 
 <img width="300" alt="architecture figure" src="/assets/img/vschh.png">   
@@ -35,7 +42,7 @@ Eduardo Pérez-Pellitero, **Sibi Catley-Chandar**, Richard Shaw, Aleš Leonardis
 
 🔗 **[Self-supervised HDR Imaging from Motion and Exposure Cues](https://arxiv.org/abs/2203.12311)**  
 <img width="270" alt="architecture figure" src="/assets/img/self-supervised.png">   
-Michal Nazarczuk, **Sibi Catley-Chandar**, Ales Leonardis, Eduardo Pérez Pellitero, arXiv:2203.12311 [cs.CV]
+Michal Nazarczuk, **Sibi Catley-Chandar**, Ales Leonardis, Eduardo Pérez Pellitero, arXiv
 
 
 🔗 **[NTIRE 2021 challenge on high dynamic range imaging: Dataset, methods and results](https://arxiv.org/abs/2106.01439)**  
