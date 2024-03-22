@@ -13,7 +13,7 @@ My name is Sibi Catley-Chandar and I'm currently a computer vision researcher at
 
 My research interests are in computational photography (high dynamic range imaging) and 3D reconstruction of scenes with Neural Radiance Fields (NeRF). I'm especially interested in ways to use statistical modelling of the image formation process to improve current deep learning methods. 
 
-I'm lucky to be supervised by [Dr. Eduardo Perez Pellitero](https://perezpellitero.github.io/) at Huawei and [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Dr. Martin Benning](https://www.qmul.ac.uk/maths/profiles/benningmartin.html) at Queen Mary.
+I'm lucky to be supervised by [Dr. Eduardo Perez Pellitero](https://perezpellitero.github.io/) at Huawei and [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Dr. Changjae Oh](https://eecs.qmul.ac.uk/~coh/) at Queen Mary, and previously [Professor Martin Benning](https://profiles.ucl.ac.uk/95169-martin-benning).
 
 Outside of research I enjoy running, skiing and walking the dogs with my wife.
 
