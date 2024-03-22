@@ -12,6 +12,14 @@ images:
 
 <center> 
 
+[Sibi Catley-Chandar](https://sib1.github.io/)   [Richard Shaw](https://scholar.google.com/citations?user=9qqtzK4AAAAJ&hl=en)   [Gregory Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/)   [Eduardo Perez-Pellitero](https://perezpellitero.github.io/projects/flexhdr/)
+
+</center>
+
+<br>
+
+<center> 
+
 <button class="button" onClick="window.open('https://arxiv.org/abs/2403.11909');">
      <span class="icon">arXiv</span>
 </button>
@@ -20,7 +28,7 @@ images:
      <span class="icon">PDF</span>
 </button>
 
-  </center>
+</center>
 
 <br>
 
