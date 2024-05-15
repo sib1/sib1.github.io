@@ -87,7 +87,7 @@ If videos do not load, please try using Mozilla Firefox or download the video fr
     </div>
 </div>
 
-<h5>View Consistency</h5>
+<center> <h3>View Consistency</h3> </center>
 
 
 <div class="row mt-3">
@@ -96,6 +96,29 @@ If videos do not load, please try using Mozilla Firefox or download the video fr
     </div>
 </div>
 
+<h6>Zoomed In Results - MipNeRF360 + Ours</h6>
+
+<h6>We show zoomed in videos of our method below to demonstrate the view consistency of our approach.</h6>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/bicycle_zoomed.mp4" class="img-fluid rounded z-depth-1" preload=auto muted=True controls=true autoplay=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/bonsai_zoomed.mp4" class="img-fluid rounded z-depth-1" preload=auto muted=True controls=true autoplay=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/kitchen_zoomed.mp4" class="img-fluid rounded z-depth-1" preload=auto muted=True controls=true autoplay=true %}
+    </div>
+</div>
+
+<center> <h3>Image Comparisons</h3> </center>
 
 <center> <h5> Nerfacto - Room </h5> </center>
 
