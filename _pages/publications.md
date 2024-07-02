@@ -12,7 +12,7 @@ nav_order: 5
 [Project Page](https://sib1.github.io/projects/roguenerf/)
 
 <img width="300" alt="architecture figure" src="/assets/img/roguenerf.png">   
-**Sibi Catley-Chandar**, Richard Shaw, Gregory Slabaugh, Eduardo Perez-Pellitero, arXiv
+**Sibi Catley-Chandar**, Richard Shaw, Gregory Slabaugh, Eduardo Perez-Pellitero, **ECCV 2024**
 
 
 🔗 **[VSCHH 2023: A Benchmark for the View Synthesis Challenge of Human Heads](https://openaccess.thecvf.com/content/ICCV2023W/RHWC/html/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.html)**
