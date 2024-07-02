@@ -25,6 +25,8 @@ Please feel free to reach out! The best way to contact me is via my university e
 
 **Jul 24** - [RoGUENeRF](https://arxiv.org/abs/2403.11909) is accepted to ECCV 2024! 🎉 [Project Page Here](https://sib1.github.io/projects/roguenerf/)
 
+**Jul 24** - SWinGS: Sliding Windows for Dynamic 3D Gaussian Splatting is accepted to ECCV 2024! 🎉 
+
 **Jun 24** - We are co-organizing the ECCV AIM 2024 challenge on Sparse Neural Rendering: Check out [Track 1](https://codalab.lisn.upsaclay.fr/competitions/19222) and [Track 2](https://codalab.lisn.upsaclay.fr/competitions/19223) here.
 
 **Oct 23** - We co-organized the ICCV workshop on View Synthesis for Human Heads together with Imperial College London. Find the challenge here: [To NeRF or not to NeRF](https://sites.google.com/view/vschh/home) 🎯
@@ -48,6 +50,10 @@ Please feel free to reach out! The best way to contact me is via my university e
 <img width="300" alt="architecture figure" src="/assets/img/roguenerf.png">   
 
 **Sibi Catley-Chandar**, Richard Shaw, Gregory Slabaugh, Eduardo Perez-Pellitero, **ECCV 2024**
+
+🔗 **[SWinGS: Sliding Windows for Dynamic 3D Gaussian Splatting]**
+
+Richard Shaw, Jifei Song, Authur Moreau, Michal Nazarczuk, **Sibi Catley-Chandar**, Helisa Dhamo, Eduardo Perez-Pellitero, **ECCV 2024**
 
 
 🔗 **[VSCHH 2023: A Benchmark for the View Synthesis Challenge of Human Heads](https://openaccess.thecvf.com/content/ICCV2023W/RHWC/html/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.html)**
