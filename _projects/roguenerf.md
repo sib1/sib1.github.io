@@ -203,10 +203,9 @@ If videos do not load, please try using Mozilla Firefox or download the video fr
 
 ```
 @article{catleychandar2024roguenerf,
-      title={RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF}, 
-      author={Sibi Catley-Chandar and Richard Shaw and Gregory Slabaugh and Eduardo Perez-Pellitero},
-      year={2024},
-      eprint={2403.11909},
-      journal={arXiv.org}
+  title={RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF},
+  author={Catley-Chandar, Sibi and Shaw, Richard and Slabaugh, Gregory and Perez-Pellitero, Eduardo},
+  journal={arXiv preprint arXiv:2403.11909},
+  year={2024}
 }
 ```
