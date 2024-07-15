@@ -14,7 +14,18 @@ images:
 
 <center> 
 
-<center> <h5> Sibi Catley-Chandar &nbsp; Richard Shaw &nbsp; Gregory Slabaugh &nbsp; Eduardo Pérez-Pellitero </h5> </center>
+<center> <h3> ECCV 2024 </h3> </center>
+
+</center>
+
+<br>
+
+<center> 
+
+<center> <h5> <a href="https://sib1.github.io/">Sibi Catley-Chandar</a>^† &nbsp; <a href="https://scholar.google.com/citations?user=9qqtzK4AAAAJ&hl=en">Richard Shaw</a>^ &nbsp; <a href="https://www.eecs.qmul.ac.uk/~gslabaugh/">Gregory Slabaugh</a>† &nbsp; <a href="https://perezpellitero.github.io/">Eduardo Pérez-Pellitero</a>^ </h5> </center>
+
+
+<center> <h5> ^Huawei Noah's Ark Lab, †Queen Mary University Of London </h5> </center>
 
 </center>
 
