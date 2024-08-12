@@ -25,7 +25,7 @@ Please feel free to reach out! The best way to contact me is via my university e
 
 **Jul 24** - [RoGUENeRF](https://arxiv.org/abs/2403.11909) is accepted to ECCV 2024! 🎉 [Project Page Here](https://sib1.github.io/projects/roguenerf/)
 
-**Jul 24** - SWinGS: Sliding Windows for Dynamic 3D Gaussian Splatting is accepted to ECCV 2024! 🎉 
+**Jul 24** - [SWinGS: Sliding Windows for Dynamic 3D Gaussian Splatting](https://arxiv.org/abs/2312.13308) is accepted to ECCV 2024! 🎉 
 
 **Jun 24** - We are co-organizing the ECCV AIM 2024 challenge on Sparse Neural Rendering: Check out [Track 1](https://codalab.lisn.upsaclay.fr/competitions/19222) and [Track 2](https://codalab.lisn.upsaclay.fr/competitions/19223) here.
 
