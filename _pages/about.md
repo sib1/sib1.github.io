@@ -53,6 +53,8 @@ Please feel free to reach out! The best way to contact me is via my university e
 
 🔗 **[SWinGS: Sliding Windows for Dynamic 3D Gaussian Splatting]**
 
+<img width="300" alt="architecture figure" src="/assets/img/swings.png">   
+
 Richard Shaw, Jifei Song, Authur Moreau, Michal Nazarczuk, **Sibi Catley-Chandar**, Helisa Dhamo, Eduardo Perez-Pellitero, **ECCV 2024**
 
 
