@@ -14,7 +14,7 @@ nav_order: 5
 <img width="300" alt="architecture figure" src="/assets/img/roguenerf.png">   
 **Sibi Catley-Chandar**, Richard Shaw, Gregory Slabaugh, Eduardo Perez-Pellitero, **ECCV 2024**
 
-🔗 **[SWinGS: Sliding Windows for Dynamic 3D Gaussian Splatting]**
+🔗 **[SWinGS: Sliding Windows for Dynamic 3D Gaussian Splatting](https://arxiv.org/abs/2312.13308)**
 
 Richard Shaw, Jifei Song, Authur Moreau, Michal Nazarczuk, **Sibi Catley-Chandar**, Helisa Dhamo, Eduardo Perez-Pellitero, **ECCV 2024**
 
