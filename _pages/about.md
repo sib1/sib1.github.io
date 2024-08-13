@@ -51,7 +51,7 @@ Please feel free to reach out! The best way to contact me is via my university e
 
 **Sibi Catley-Chandar**, Richard Shaw, Gregory Slabaugh, Eduardo Perez-Pellitero, **ECCV 2024**
 
-🔗 **[SWinGS: Sliding Windows for Dynamic 3D Gaussian Splatting]**
+🔗 **[SWinGS: Sliding Windows for Dynamic 3D Gaussian Splatting](https://arxiv.org/abs/2312.13308)**
 
 <img width="300" alt="architecture figure" src="/assets/img/swings.png">   
 
