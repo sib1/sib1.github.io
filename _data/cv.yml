@@ -33,32 +33,32 @@
   type: time_table
   contents:
   - title: AI Research Scientist, Senior Staff
-      institution: Motorola Solutions
-      year: 2025 - Now
-      description:
-        - AI Research Scientist within the Perception AI team, part of Motorola’s global AI R&D group.
-        - Driving applied research in computer vision for public safety and video security. 
-        - Collaborating with engineers and product teams to prototype, patent and prepare for deployment across cloud and camera. 
-        - Research scope includes vision–language models, text-to-image models, action recognition, efficient deep learning for real-world environments.
-    - title: Research Engineer (PhD Researcher, Computer Vision & AI)
-      institution: Huawei Noah's Ark Lab, London
-      year: 2020 - 2025
-      description:
-        - Conducted applied research in computer vision as part of Huawei’s research lab, while concurrently completing a PhD at Queen Mary University of London.
-        - Authored multiple publications at internationally recognised machine learning conferences and journals including NeurIPS, ECCV, IEEE TIP, CVPRW and BMVC.
-        - Filed 4 patents across computational photography, 3D reconstruction and image enhancement.
-    - title: Deep Learning Research Engineer
-      institution: Plumerai Ltd, London
-      year: 2019-2020
-      description:
-        - Conducted research into quantized and binarized neural networks for computer vision tasks.
-        - Worked on image classification and semantic segmentation.
+    institution: Motorola Solutions
+    year: 2025 - Now
+    description:
+      - AI Research Scientist within the Perception AI team, part of Motorola’s global AI R&D group.
+      - Driving applied research in computer vision for public safety and video security. 
+      - Collaborating with engineers and product teams to prototype, patent and prepare for deployment across cloud and camera. 
+      - Research scope includes vision–language models, text-to-image models, action recognition, efficient deep learning for real-world environments.
+  - title: Research Engineer (PhD Researcher, Computer Vision & AI)
+    institution: Huawei Noah's Ark Lab, London
+    year: 2020 - 2025
+    description:
+      - Conducted applied research in computer vision as part of Huawei’s research lab, while concurrently completing a PhD at Queen Mary University of London.
+      - Authored multiple publications at internationally recognised machine learning conferences and journals including NeurIPS, ECCV, IEEE TIP, CVPRW and BMVC.
+      - Filed 4 patents across computational photography, 3D reconstruction and image enhancement.
+  - title: Deep Learning Research Engineer
+    institution: Plumerai Ltd, London
+    year: 2019-2020
+    description:
+      - Conducted research into quantized and binarized neural networks for computer vision tasks.
+      - Worked on image classification and semantic segmentation.
 
-    - title: Government Bonds Trader
-      institution: Barclays Investment Bank, London
-      year: 2016-2017
-      description:
-        - Traded Core (Germany, France, Netherlands, Belgium) Bills and Danish Government Bonds for Barclays
+  - title: Government Bonds Trader
+    institution: Barclays Investment Bank, London
+    year: 2016-2017
+    description:
+      - Traded Core (Germany, France, Netherlands, Belgium) Bills and Danish Government Bonds for Barclays
 
 
 
