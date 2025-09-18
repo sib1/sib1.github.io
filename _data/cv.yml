@@ -8,7 +8,8 @@
       year: 2021 - 2025
       description:
         - Industrial PhD based at Huawei AI research lab in London.
-        - Research into computational photography and neural rendering.
+        - Research includes computational photography, neural rendering, diffusion.
+        - Published papers at NeurIPS 2025, ECCV 2024, TIP, CVMPRW, BMVC.
     - title: MSc - Computational Statistics and Machine Learning
       institution: University College London (UCL)
       year: 2018-2019
@@ -31,12 +32,21 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Computer Vision Research Engineer
-      institution: Huawei Noah's Ark Lab, London
-      year: 2020 - Now
+  - title: AI Research Scientist, Senior Staff
+      institution: Motorola Solutions
+      year: 2025 - Now
       description:
-        - Conducting research into computational photography and neural rendering within the computer vision team.
-        - Focuses include HDR, Optical Flow, NeRF, Image Enhancement, Neural Rendering, Digital Humans
+        - AI Research Scientist within the Perception AI team, part of Motorola’s global AI R&D group.
+        - Driving applied research in computer vision for public safety and video security. 
+        - Collaborating with engineers and product teams to prototype, patent and prepare for deployment across cloud and camera. 
+Research scope includes: vision–language models, text-to-image models, action recognition, efficient deep learning for real-world environments.
+    - title: Research Engineer (PhD Researcher, Computer Vision & AI)
+      institution: Huawei Noah's Ark Lab, London
+      year: 2020 - 2025
+      description:
+        - Conducted applied research in computer vision as part of Huawei’s research lab, while concurrently completing a PhD at Queen Mary University of London.
+        - Authored multiple publications at internationally recognised machine learning conferences and journals including NeurIPS, ECCV, IEEE TIP, CVPRW and BMVC.
+        - Filed 4 patents across computational photography, 3D reconstruction and image enhancement.
     - title: Deep Learning Research Engineer
       institution: Plumerai Ltd, London
       year: 2019-2020
