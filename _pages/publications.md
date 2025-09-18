@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+🔗 **[ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs](https://arxiv.org/abs/2506.18792)**
+[Project Page](https://vidar-4d.github.io/)
+
+<img width="300" alt="architecture figure" src="/assets/img/vidar.png">   
+Michal Nazarczuk,^ **Sibi Catley-Chandar**,^ Thomas Tanay, Zhensong Zhang, Gregory Slabaugh, Eduardo Perez-Pellitero, **NeurIPS 2025**
+^*Equal Contribution*
 
 🔗 **[RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF](https://arxiv.org/abs/2403.11909)**
 [Project Page](https://sib1.github.io/projects/roguenerf/)
