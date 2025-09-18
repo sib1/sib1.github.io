@@ -1,3 +1,4 @@
+ruby "~> 3.2"
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
