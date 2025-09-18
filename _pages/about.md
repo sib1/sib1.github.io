@@ -23,6 +23,8 @@ Please feel free to reach out! The best way to contact me is via my university e
 
 ## Recent Updates
 
+**Sep 25** - [ViDAR](https://arxiv.org/abs/2506.18792) is accepted to NeurIPS 2025! 🎉 [Project Page Here](https://vidar-4d.github.io/) 
+
 **Jul 24** - [RoGUENeRF](https://arxiv.org/abs/2403.11909) is accepted to ECCV 2024! 🎉 [Project Page Here](https://sib1.github.io/projects/roguenerf/)
 
 **Jul 24** - [SWinGS: Sliding Windows for Dynamic 3D Gaussian Splatting](https://arxiv.org/abs/2312.13308) is accepted to ECCV 2024! 🎉 
