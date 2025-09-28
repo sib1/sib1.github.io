@@ -9,16 +9,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Sibi Catley-Chandar and I'm currently a computer vision researcher at [Huawei Noah's Ark Lab London](https://noahlab.com.hk/#/home) and also a doctoral student at Queen Mary, University of London. 
+My name is Sibi Catley-Chandar and I'm currently a senior AI research scientist at Motorola Solution. Before this, I was a computer vision researcher at [Huawei Noah's Ark Lab London](https://noahlab.com.hk/#/home).
 
-My research interests are in computational photography (high dynamic range imaging) and 3D reconstruction of scenes with Neural Radiance Fields (NeRF). I'm especially interested in ways to use statistical modelling of the image formation process to improve current deep learning methods. 
-
-I'm lucky to be supervised by [Dr. Eduardo Perez Pellitero](https://perezpellitero.github.io/) at Huawei and [Professor Greg Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/) and [Dr. Changjae Oh](https://eecs.qmul.ac.uk/~coh/) at Queen Mary, and previously [Professor Martin Benning](https://profiles.ucl.ac.uk/95169-martin-benning).
+My research interests are in building multimodal systems with diffusion and vision–language models for resource-constrained, privacy-preserving, safety-critical settings.
 
 Outside of research I enjoy running, skiing and walking the dogs with my wife.
-
-## Contact Me
-Please feel free to reach out! The best way to contact me is via my university email address: <s.catley-chandar@qmul.ac.uk>
 
 
 ## Recent Updates
@@ -45,6 +40,13 @@ Please feel free to reach out! The best way to contact me is via my university e
 
 
 ## Recent Publications
+
+🔗 **[ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs](https://arxiv.org/abs/2506.18792)**
+[Project Page](https://sib1.github.io/projects/roguenerf/)
+
+<img width="300" alt="architecture figure" src="/assets/img/vidar.png">   
+
+Michal Nazarczuk*, Sibi Catley-Chandar*, Thomas Tanay, Zhensong Zhang, Gregory Slabaugh, Eduardo Pérez-Pellitero **NeurIPS 2025** *Equal Contribution
 
 🔗 **[RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF](https://arxiv.org/abs/2403.11909)**
 [Project Page](https://sib1.github.io/projects/roguenerf/)
