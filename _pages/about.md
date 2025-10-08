@@ -9,7 +9,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Sibi Catley-Chandar and I'm currently a senior AI research scientist at Motorola Solution. Before this, I was a computer vision researcher at [Huawei Noah's Ark Lab London](https://noahlab.com.hk/#/home).
+My name is Sibi Catley-Chandar and I'm currently a senior AI research scientist at [Motorola Solutions](https://www.motorolasolutions.com/). Before this, I was a computer vision researcher at [Huawei Noah's Ark Lab London](https://noahlab.com.hk/#/home).
 
 My research interests are in building multimodal systems with diffusion and vision–language models for resource-constrained, privacy-preserving, safety-critical settings.
 
